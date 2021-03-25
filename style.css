@@ -1,0 +1,12 @@
+body{
+  background-image: url("background_texture.jpg") ;
+}
+
+.carousel-indicators button{
+  margin: 0.2em;
+  margin-bottom: 1em;
+  width: 2em;
+  border-radius: 30%;
+  border: 1px solid rgba(255,255,255, 0.2);
+  background-color: rgba(255,255,255, 0.2);
+}
