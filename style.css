@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Cardo&display=swap');
 body{
   background-image: url("medias/background_texture.jpg") ;
   color: white;
+  font-family: 'Cardo', serif;
 }
 
 .carousel-indicators button{
@@ -8,6 +10,6 @@ body{
   margin-bottom: 0.2em;
 }
 .carousel-inner{
-  margin-top: 15%;
+  margin-top: 21%;
 }
 
