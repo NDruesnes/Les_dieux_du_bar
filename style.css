@@ -1,15 +1,43 @@
 @import url('https://fonts.googleapis.com/css2?family=Cardo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
 body{
   background-image: url("medias/background_texture.jpg") ;
   color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2{
   font-family: 'Cardo', serif;
 }
 
 .carousel-indicators button{
   margin: 0.2em;
-  margin-bottom: 0.2em;
+  margin-bottom: 0.1em;
 }
 .carousel-inner{
   margin-top: 21%;
+}
+.couverture{
+  float: right;
+  width: 40%;
+  height: auto;
+}
+.pacome {
+  width: 25%;
+  height: 25%;
+  float: right;
+}
+em {
+  font-style: normal;
+}
+strong{
+  font-weight: normal;
+}
+a:visited{
+  color: lightgrey;
+}
+a:link{
+  color: white;
 }
 
