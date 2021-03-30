@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Cardo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+  background-image: url("medias/background_texture.jpg") ;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2, {
+  font-family: 'Cardo', serif;
+}
+
+.carousel-indicators button{
+  margin: 0.2em;
+  margin-bottom: 0.1em;
+}
+.carousel-inner{
+  margin-top: 21%;
+}
+.couverture{
+  float: right;
+  width: 40%;
+  height: auto;
+}
+.pacome {
+  width: 25%;
+  height: auto;
+  float: right;
+}
+em {
+  font-style: normal;
+}
+strong{
+  font-weight: normal;
+}
+a:visited{
+  color: lightgrey;
+}
+a:link{
+  color: white;
+}
+.carousel-caption p{
+  background: rgba(0, 0, 0, 0.2);
+}
+.atomic{
+  width: 100%;
+}
+.btn-outline-light a{
+  text-decoration: none;
+}
+.btn-outline-light a:active{
+  color: black;
+}
+.decouvrir_plus{
+  text-decoration: none;
+}
+@media screen and (min-width:375px){
+  .carousel-inner{
+    margin-top: 19%;
+  }
+  .pacome{
+    width: 20%;
+    height: auto;
+  }
+}
+
+@media screen and (min-width:425px){
+  .carousel-inner{
+    margin-top: 15%;
+  }
+  .couverture{
+    width: 35%;
+    height: auto;
+  }
+  .pacome{
+    width: 18%;
+    height: auto;
+  }
+}
+
+@media screen and (min-width:768px){
+  .carousel-inner{
+    margin-top: 8%;
+  }
+  .couverture{
+    width: 35%;
+    height: auto;
+  }
+  .post_evenement img{
+    width: 5.7rem;
+    height: auto;
+    float: none;
+  }
+ 
+} 
+
+@media screen and (min-width:1024px){
+  .carousel-inner{
+    margin-top: 7%;
+  }
+  .post_evenement img{
+    width: 6rem;
+    height: auto;
+    float: none;
+  }
+ body{
+  font-size: 1.1em
+ }
+} 
