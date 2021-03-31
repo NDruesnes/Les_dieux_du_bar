@@ -193,5 +193,18 @@ a:link{
     width: 90%;
    margin: auto;
 
+<<<<<<< HEAD
   }
 } 
+=======
+
+@media screen and (min-width:375px){
+  .carousel-inner{
+    margin-top: 19%;
+  }
+  .pacome{
+    width: 20%;
+    height: 20%;
+  }
+}
+>>>>>>> dev_mobile_m
