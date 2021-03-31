@@ -207,4 +207,21 @@ a:link{
     height: 20%;
   }
 }
+<<<<<<< HEAD
 >>>>>>> dev_mobile_m
+=======
+
+@media screen and (min-width:425px){
+  .carousel-inner{
+    margin-top: 15%;
+  }
+  .couverture{
+    width: 35%;
+    height: auto;
+  }
+  .pacome{
+    width: 18%;
+    height: 18%;
+  }
+}
+>>>>>>> dev_mobile_l
