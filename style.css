@@ -61,6 +61,9 @@ a:link{
 .modal a {
   color: black;
 }
+.navbar{
+  position: absolute;
+}
 @media screen and (max-width: 1023px){
   aside{
     display: none;
@@ -142,7 +145,7 @@ a:link{
   margin: auto;
  }
  .navbar{
-   width: 100%;
+   width: 80%;
    margin: auto;
  }
   .evenement{
@@ -170,7 +173,7 @@ a:link{
   margin: auto;
  }
  .navbar{
-   width: 80%;
+   width: 69%;
    margin: auto;
  }
  #carouselExampleCaptions{
@@ -187,7 +190,7 @@ a:link{
   margin: auto;
   }
   footer{
-    width: 80%;
+    width: 90%;
    margin: auto;
 
   }
