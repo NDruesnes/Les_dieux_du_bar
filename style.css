@@ -65,6 +65,7 @@ a:link{
 .navbar{
   position: absolute;
 }
+
 @media screen and (max-width: 1023px){
   aside{
     display: none;
@@ -106,6 +107,7 @@ a:link{
     width: 5.7rem;
     height: auto;
     float: none;
+    margin: auto;
   }
 } 
 
@@ -120,6 +122,26 @@ a:link{
   }
  body{
   font-size: 1.1em;
+ }
+ .evenement{
+   width: 80%;
+   margin: auto;
+ }
+ .breadcrumb{
+  padding-left: 7rem;
+ }
+} 
+@media screen and (min-width:1200px){
+  .carousel-inner{
+    margin-top: 6%;
+  }
+  .post_evenement img{
+    width: 7.2rem;
+    height: auto;
+    float: none;
+  }
+ body{
+  font-size: 1.3em;
  }
  .evenement{
    width: 80%;
