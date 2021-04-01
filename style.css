@@ -7,15 +7,7 @@ body{
   font-family: 'Montserrat', sans-serif;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 h1, h2{
-=======
-h1, h2, {
->>>>>>> laptop
-=======
-h1, h2{
->>>>>>> laptop_L
   font-family: 'Cardo', serif;
 }
 
@@ -63,8 +55,7 @@ a:link{
 .decouvrir_plus{
   text-decoration: none;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 .modal{
   color: black;
 }
@@ -79,12 +70,6 @@ a:link{
     display: none;
   }
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> laptop
-=======
->>>>>>> laptop_L
 @media screen and (min-width:375px){
   .carousel-inner{
     margin-top: 19%;
@@ -107,13 +92,6 @@ a:link{
     width: 18%;
     height: auto;
   }
-<<<<<<< HEAD
-<<<<<<< HEAD
- 
-=======
->>>>>>> laptop
-=======
->>>>>>> laptop_L
 }
 
 @media screen and (min-width:768px){
@@ -129,10 +107,6 @@ a:link{
     height: auto;
     float: none;
   }
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> laptop_L
 } 
 
 @media screen and (min-width:1024px){
@@ -147,7 +121,6 @@ a:link{
  body{
   font-size: 1.1em;
  }
-<<<<<<< HEAD
  .evenement{
    width: 80%;
    margin: auto;
@@ -218,173 +191,5 @@ a:link{
   footer{
     width: 90%;
    margin: auto;
-
-<<<<<<< HEAD
-  }
-} 
-=======
-=======
->>>>>>> dev_tablet
-
-@media screen and (min-width:375px){
-  .carousel-inner{
-    margin-top: 19%;
-  }
-  .pacome{
-    width: 20%;
-    height: auto;
   }
 }
-<<<<<<< HEAD
->>>>>>> dev_mobile_m
-=======
-
-@media screen and (min-width:425px){
-  .carousel-inner{
-    margin-top: 15%;
-  }
-  .couverture{
-    width: 35%;
-    height: auto;
-  }
-  .pacome{
-    width: 18%;
-    height: auto;
-  }
- 
-}
-
-@media screen and (min-width:768px){
-  .carousel-inner{
-    margin-top: 8%;
-  }
-  .couverture{
-    width: 35%;
-    height: auto;
-  }
-  .post_evenement img{
-    width: 5.7rem;
-    height: auto;
-    float: none;
-  }
-=======
- 
->>>>>>> laptop
-} 
-
-@media screen and (min-width:1024px){
-  .carousel-inner{
-    margin-top: 7%;
-  }
-  .post_evenement img{
-    width: 6rem;
-    height: auto;
-    float: none;
-  }
- body{
-<<<<<<< HEAD
-  font-size: 1.1em;
- }
- .evenement{
-   width: 80%;
-   margin: auto;
- }
- .breadcrumb{
-  padding-left: 7rem;
- }
-} 
-@media screen and (min-width:1440px){
-  .carousel-inner{
-=======
-} 
-@media screen and (min-width:1024px){
-  .carousel-inner{
->>>>>>> laptop_L
-    margin-top: 5%;
-  }
-  .post_evenement img{
-    width: 7.2rem;
-    height: auto;
-    float: none;
-  }
- body{
-  font-size: 1.1em;
-  width: 80%;
-  margin: auto;
- }
- .navbar{
-   width: 80%;
-   margin: auto;
-<<<<<<< HEAD
- }
-  .evenement{
-   width: 70%;
-   margin: auto;
- }
- .breadcrumb{
-  padding-left: 5rem;
-  width: 100%;
-  margin: auto;
- }
-} 
-@media screen and (min-width:1920px){
-=======
-   position: absolute;
- }
-} 
-@media screen and (min-width:1200px){
->>>>>>> laptop_L
-  .carousel-inner{
-    margin-top: 4%;
-  }
-  .post_evenement img{
-    width: 8.4rem;
-    height: auto;
-    float: none;
-  }
- body{
-  font-size: 1.3em;
-  width: 80%;
-  margin: auto;
- }
- .navbar{
-   width: 69%;
-   margin: auto;
-<<<<<<< HEAD
-=======
-   position: absolute;
->>>>>>> laptop_L
- }
- #carouselExampleCaptions{
-   width: 86%;
-   margin: auto;
- }
-<<<<<<< HEAD
- .evenement{
-  width: 60%;
-  margin: auto;
-  }
-  .breadcrumb{
-  padding-left: 5rem;
-  width: 80%;
-  margin: auto;
-  }
-  footer{
-    width: 90%;
-   margin: auto;
-
-  }
-<<<<<<< HEAD
-}
->>>>>>> dev_mobile_l
-=======
-} 
->>>>>>> dev_tablet
-=======
-  font-size: 1.1em
- }
-} 
->>>>>>> laptop
-=======
-} 
->>>>>>> laptop_L
