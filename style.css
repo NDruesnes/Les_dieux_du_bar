@@ -2,7 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 body{
-  background-image: url("medias/background_texture.jpg") ;
+  background-color: #000502;
+background-image: url("https://www.transparenttextures.com/patterns/broken-noise.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
   color: white;
   font-family: 'Montserrat', sans-serif;
 }
